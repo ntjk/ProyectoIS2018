@@ -7,9 +7,9 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace ProyectoIS2018_2 {
+namespace ProyectoIS2018_2.Views.Modulo5 {
     
     
-    public partial class Contact {
+    public partial class WebForm2 {
     }
 }

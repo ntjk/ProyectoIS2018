@@ -15,7 +15,7 @@ namespace ProyectoIS2018_2
         void Application_Start(object sender, EventArgs e)
         {
             // Code that runs on application startup
-            AreaRegistration.RegisterAllAreas();
+           AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
