@@ -16,6 +16,8 @@ input,
 select,
 textarea {
     max-width: 280px;
+    width: 740px;
+    height: 199px;
 }
 
 

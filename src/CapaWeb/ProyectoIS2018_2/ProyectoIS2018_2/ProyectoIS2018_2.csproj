@@ -208,7 +208,7 @@
     <Content Include="Site.Master" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Views\Modulo5\Contacto_x_Compañia.aspx" />
-    <Content Include="Views\Modulo5\Contacto_x_Leads.aspx" />
+    <Content Include="Views\Modulo5\ConsultarContacto.aspx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config">
       <SubType>Designer</SubType>
@@ -272,12 +272,12 @@
     <Compile Include="Views\Modulo5\Contacto_x_Compañia.aspx.designer.cs">
       <DependentUpon>Contacto_x_Compañia.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Views\Modulo5\Contacto_x_Leads.aspx.cs">
-      <DependentUpon>Contacto_x_Leads.aspx</DependentUpon>
+    <Compile Include="Views\Modulo5\ConsultarContacto.aspx.cs">
+      <DependentUpon>ConsultarContacto.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Views\Modulo5\Contacto_x_Leads.aspx.designer.cs">
-      <DependentUpon>Contacto_x_Leads.aspx</DependentUpon>
+    <Compile Include="Views\Modulo5\ConsultarContacto.aspx.designer.cs">
+      <DependentUpon>ConsultarContacto.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

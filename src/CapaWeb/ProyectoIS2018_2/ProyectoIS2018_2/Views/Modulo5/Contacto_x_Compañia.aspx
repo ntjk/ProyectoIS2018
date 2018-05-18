@@ -21,7 +21,7 @@
     </style>
 
   <div class="container-fluid">
-    <h2>Contactos Por compañia</h2>
+    <h2> Contactos Por compañia</h2>
          <p>Listas de Contactos de la empresa seleccionada: </p>            
         
       
@@ -58,15 +58,15 @@
     <div  id="Botom"class="botones">
         <h3> Que deseas hacer : </h3>
 
-        <a  href="/Views/Modulo5/Contacto_x_leads" class="btn btn-success "> Nuevo contacto</a>
-        <a  href="/Views/Modulo5/Contacto_x_leads" class="btn btn-warning "> Editar Contacto</a>
-        <a  href="/Views/Modulo5/Contacto_x_leads" class="btn btn-danger  "> Eliminar contacto</a>     
+        <a  href="#" class="btn btn-success "> Nuevo contacto</a>
+        <a  href="/Views/Modulo5/ConsultarContacto" class="btn btn-warning "> Consultar Contacto</a>
+        <a  href="#" class="btn btn-danger  "> Eliminar contacto</a>     
         <br />
     </div>
     <br />
     
     <div>
-        <a id="b-regresar" href="#" class="btn btn-info "> regresar</a>
+        <a id="b-regresar" href="#" class="btn btn-info "> Regresar</a>
     </div>
     <br />
 
