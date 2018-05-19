@@ -13,5 +13,20 @@ namespace ProyectoIS2018_2
         {
 
         }
+
+        protected void ListView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            MultiView1.ActiveViewIndex = 1;
+        }
+
+        protected void Proyecto1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
