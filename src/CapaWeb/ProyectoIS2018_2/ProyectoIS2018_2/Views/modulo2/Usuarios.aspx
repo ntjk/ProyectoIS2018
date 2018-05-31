@@ -111,7 +111,7 @@
                                 </div>
                                 <label class="control-label col-sm-2">Password:</label>
                                 <div class="col-sm-10">
-                                    <input type="password" class="form-control" placeholder="Ingrese ¨Password" name="pwd">
+                                    <input type="password" class="form-control" placeholder="Ingrese Password" name="pwd">
                                     <br />
                                 </div>
                             </div>
