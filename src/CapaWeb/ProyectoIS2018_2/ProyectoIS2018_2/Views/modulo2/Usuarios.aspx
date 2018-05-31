@@ -4,7 +4,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <!--Inicio de la vista-->
     <h2 style="margin-bottom: 35px; margin-top: 40px"><b>
-        <center>Gestión de Usuarios</center>
+        <center>Gestión de usuarios</center>
     </b></h2>
 
     <!--Barra "Buscar"-->
